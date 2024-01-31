@@ -7,12 +7,12 @@
     
 }
 .Avatar img{
-    width: 20rem;
-    height: 20rem;
+    width: 17rem;
+    height: 17rem;
     border-radius: 2%;
-    margin-right: 15%;
-    margin-top: 2%;
+    margin-right: 30%;
+    margin-top: 5%;
     border-image-outset: 10%;
-    border: 2px solid rgb(255, 255, 255);
+    border: 4px inset #000
     
 }

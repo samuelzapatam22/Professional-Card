@@ -1,3 +1,15 @@
 .Myinfo{
-    color: white
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-transform: uppercase;
+
+
+}
+.Subtitle{
+    color: #000;;
+    font-size: large;
+
+}
+.Title{
+    color:rgb(160, 128, 69);
 }

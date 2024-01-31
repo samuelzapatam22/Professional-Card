@@ -3,8 +3,8 @@ import './Myinfo.css'
 const Myinfo = () => {
     return (
       <div className='Myinfo'>
-        <h1>Samuel Zapata Montoya</h1>
-        <h2>Junior Developer</h2>
+        <h1 className="Title">Samuel Zapata Montoya</h1>
+        <h3 className="Subtitle">STUDENT</h3>
       </div>
     );
   }

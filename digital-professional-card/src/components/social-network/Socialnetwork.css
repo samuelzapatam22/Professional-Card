@@ -2,7 +2,7 @@
     background-color: #ffffff;
     color: #070707;
     padding: 10px 10px;
-    border: 2px solid #fff;
+    border: 3px outset rgb(168, 142, 92);
     border-radius: 5px;
     cursor: pointer;
     margin-right: 20px; 

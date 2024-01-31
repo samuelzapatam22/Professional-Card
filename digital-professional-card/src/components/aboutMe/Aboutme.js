@@ -3,7 +3,7 @@ import './Aboutme.css'
 const Aboutme = () => {
     return (
       <div className='Aboutme'>
-        <h1>About me</h1>
+        <h1>ABOUT ME</h1>
         <p>
             I am an ambitious young individual, actively seeking opportunities to gain professional experience. 
             I am passionate about programming, which drives me to learn and enhance my skills in Java, JavaScript, C, and C++ every day.
@@ -11,7 +11,7 @@ const Aboutme = () => {
              im a as a leader and a strong team collaborator. 
         </p>
 
-         <h1> interests</h1>
+         <h1> INTERESTS</h1>
          <p>
             I aim to broaden my knowledge in the full-stack development field and, simultaneously, work for companies abroad. 
             I aspire  learn new languages and explore new countries. 

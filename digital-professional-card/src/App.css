@@ -1,8 +1,7 @@
 .App {
   text-align: center;
-  background: linear-gradient(to bottom, #5de0e6, #000000);
-  border: 1px outset white;
-  border-radius: 2%;
-  margin: 30px 200px
+  background: linear-gradient(to bottom, #a6a6a6, #fff);
+  border: 10px outset rgb(168, 142, 92);
+  margin: 30px 250px
 }
 
