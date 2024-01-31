@@ -75,6 +75,8 @@ To start this web application, in the terminal you must run the command
 npm start
 ```
 and select the link.
+- If you don't want to install the repo, you can see the app displayed here
+https://samuelzapatam22.github.io/Professional-Card/
 
 
 ## project status
