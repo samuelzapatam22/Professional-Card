@@ -1,0 +1,18 @@
+.Avatar{
+    display: flex;
+    width: 50rem;
+    height: 20rem;
+    justify-content: center;
+    text-align: center;  
+    
+}
+.Avatar img{
+    width: 17rem;
+    height: 17rem;
+    border-radius: 2%;
+    margin-right: 30%;
+    margin-top: 5%;
+    border-image-outset: 10%;
+    border: 4px inset #000
+    
+}

@@ -6,15 +6,15 @@ You can learn more about me through the social networks that appear at the botto
 ## Main Features
 - you want to know who I am?
 
-![Alt text](<digital-professional-card/src/graphics-elements/Captura desde 2024-01-31 15-53-17.png>)
+![Alt text](<src/graphics-elements/Captura desde 2024-01-31 15-53-17.png>)
 
 - know my interests
 
-![Alt text](<digital-professional-card/src/graphics-elements/Captura desde 2024-01-31 15-51-31.png>)
+![Alt text](<src/graphics-elements/Captura desde 2024-01-31 15-51-31.png>)
 
 - follow my social networks and contact me
 
-![Alt text](<digital-professional-card/src/graphics-elements/Captura desde 2024-01-31 15-52-18.png>)
+![Alt text](<src/graphics-elements/Captura desde 2024-01-31 15-52-18.png>)
 
 ## MOSCOW Analysis - Professional Card
 
