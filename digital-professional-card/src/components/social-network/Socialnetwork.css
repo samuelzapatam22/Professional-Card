@@ -1,0 +1,29 @@
+.Socialnetwork{
+    background-color: #ffffff;
+    color: #070707;
+    padding: 10px 10px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 20px; 
+
+  }
+
+.Socialnetwork:hover{
+    color:#ffffff;
+    background-color: #000;
+}
+
+  .fa-instagram{
+    color:red;
+
+  }
+  .fa-facebook{
+    color: blue;
+  }
+  .fa-linkedin{
+    color:aqua;
+  }
+  .fa-envelope{
+    width: 15rem;
+  }
