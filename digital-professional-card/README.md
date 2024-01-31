@@ -16,6 +16,44 @@ You can learn more about me through the social networks that appear at the botto
 
 ![Alt text](<src/graphics-elements/Captura desde 2024-01-31 15-52-18.png>)
 
+## MOSCOW Analysis - Professional Card
+
+### Must-Have
+
+1. **Professional Card Display:**
+   - A functional and visually appealing display of the professional card, showcasing essential information about yourself.
+
+2. **Social Network Integration:**
+   - Functional links to social networks for users to easily connect with you.
+
+3. **Contact Information:**
+   - Visible and accurate contact information, including an email address for direct communication.
+
+### Should-Have
+
+1. **Interests Display:**
+   - A section displaying your interests in a visually appealing manner to provide additional insights about you.
+
+2. **User-Friendly Interface:**
+   - Ensure a user-friendly interface that allows visitors to navigate seamlessly through the professional card.
+
+### Could-Have
+
+1. **Graphical Elements Quality:**
+   - Consider optimizing the quality of graphical elements for an enhanced visual experience.
+
+2. **Feedback Mechanism:**
+   - Implementation of a feedback mechanism, such as a contact option, to gather suggestions or improvements from users.
+
+### Won't-Have (at least for now)
+
+1. **Additional Features:**
+   - Any additional features beyond the basic professional card functionality.
+
+2. **Complex Functionality:**
+   - Avoid implementing complex functionalities that deviate from the primary purpose of the professional card.
+
+
 
 
 
